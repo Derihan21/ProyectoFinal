@@ -13,12 +13,16 @@ ProyectoFinal_IA/
 │
 ├── Documentos Python/ ## Scripts en Python utilizados en el proyecto (modelos, análisis, etc.)
 │
+
 ├── Manual e Informes/ ## Manual técnico, informe final, presentación y documentos de soporte
 │
+
 ├── Reporteria/ ## Reportes generados a partir de los análisis o visualizaciones
 │
+
 ├── README.md ## Archivo actual con documentación de uso del repositorio
 │
+
 └── main.py ## Archivo principal para ejecutar el proyecto
 
 

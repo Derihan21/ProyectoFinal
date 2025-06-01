@@ -42,6 +42,7 @@ pip
 
 ## 👨‍💻 Autores
 Derihan Guevara
+
 Hector Contreras
 
 

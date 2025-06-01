@@ -11,15 +11,15 @@ El repositorio se organiza de la siguiente forma:
 
 ProyectoFinal_IA/
 │
-├── Documentos Python/ # Scripts en Python utilizados en el proyecto (modelos, análisis, etc.)
+├── Documentos Python/ ## Scripts en Python utilizados en el proyecto (modelos, análisis, etc.)
 │
-├── Manual e Informes/ # Manual técnico, informe final, presentación y documentos de soporte
+├── Manual e Informes/ ## Manual técnico, informe final, presentación y documentos de soporte
 │
-├── Reporteria/ # Reportes generados a partir de los análisis o visualizaciones
+├── Reporteria/ ## Reportes generados a partir de los análisis o visualizaciones
 │
-├── README.md # Archivo actual con documentación de uso del repositorio
+├── README.md ## Archivo actual con documentación de uso del repositorio
 │
-└── main.py # Archivo principal para ejecutar el proyecto
+└── main.py ## Archivo principal para ejecutar el proyecto
 
 
 ## 🚀 Cómo ejecutar el proyecto
@@ -31,6 +31,7 @@ bash --> git clone https://github.com/Derihan21/ProyectoFinal.git
 
 ## 🛠 Requisitos
 Python 3.10 o superior
+
 pip
 
 

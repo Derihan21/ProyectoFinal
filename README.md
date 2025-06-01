@@ -45,5 +45,7 @@ Derihan Guevara
 
 Hector Contreras
 
+Carlos Paredes
 
+Jorge Ubico
 

@@ -40,6 +40,11 @@ Python 3.10 o superior
 pip
 
 
+## Video Explicativo
+
+https://drive.google.com/file/d/1uv0awYOhJE-rBbBGvK6QidsaXy_m4D7Y/view?usp=sharing
+
+
 ## 👨‍💻 Autores
 Derihan Guevara
 
